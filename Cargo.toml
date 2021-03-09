@@ -1,5 +1,5 @@
 [package]
-name = "cell-rs"
+name = "game-of-life"
 version = "0.1.0"
 authors = ["navier <navier10stokes@gmail.com>"]
 edition = "2018"

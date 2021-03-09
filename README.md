@@ -1,1 +1,1 @@
-# cell-rs
+# Conway's game of life
